@@ -2,25 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/post/good-sentences/2022-20th-weeks/</loc>
-    <lastmod>2022-05-22T11:57:08+08:00</lastmod>
-  </url><url>
     <loc>/categories/</loc>
+    <lastmod>2022-05-22T12:14:16+08:00</lastmod>
+  </url><url>
+    <loc>/categories/poem/</loc>
+    <lastmod>2022-05-22T12:14:16+08:00</lastmod>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2022-05-22T12:14:16+08:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2022-05-22T12:14:16+08:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2022-05-22T12:14:16+08:00</lastmod>
+  </url><url>
+    <loc>/tags/%E6%9B%BE%E5%9B%BD%E8%97%A9/</loc>
+    <lastmod>2022-05-22T12:14:16+08:00</lastmod>
+  </url><url>
+    <loc>/post/poem/2022-05-22-%E8%8A%B1%E6%9C%AA%E5%85%A8%E5%BC%80/</loc>
+    <lastmod>2022-05-22T12:14:16+08:00</lastmod>
+  </url><url>
+    <loc>/post/good-sentences/2022-20th-weeks/</loc>
     <lastmod>2022-05-22T11:57:08+08:00</lastmod>
   </url><url>
     <loc>/categories/good-sentences/</loc>
     <lastmod>2022-05-22T11:57:08+08:00</lastmod>
   </url><url>
     <loc>/tags/learn-english/</loc>
-    <lastmod>2022-05-22T11:57:08+08:00</lastmod>
-  </url><url>
-    <loc>/post/</loc>
-    <lastmod>2022-05-22T11:57:08+08:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2022-05-22T11:57:08+08:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2022-05-22T11:57:08+08:00</lastmod>
   </url><url>
     <loc>/post/good-sentences/2022-19th-weeks/</loc>
