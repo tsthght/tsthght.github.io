@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vscode on tsthght&#39;s blog</title>
+    <link>/categories/vscode/</link>
+    <description>Recent content in vscode on tsthght&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 May 2022 19:05:43 +0800</lastBuildDate><atom:link href="/categories/vscode/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vscode for Markdown</title>
+      <link>/post/tools/2022-05-27-vscode-for-markdown/</link>
+      <pubDate>Fri, 27 May 2022 19:05:43 +0800</pubDate>
+      
+      <guid>/post/tools/2022-05-27-vscode-for-markdown/</guid>
+      <description>可以通过安装如下插件，让vscode比较好的支持markdown文件的编辑。
+ markdown all in one   markdown preview enhanced   markdown preview github styling  </description>
+    </item>
+    
+  </channel>
+</rss>
