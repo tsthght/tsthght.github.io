@@ -6,7 +6,17 @@
     <description>Recent content on tsthght&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 May 2022 14:05:32 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 May 2022 19:05:43 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vscode for Markdown</title>
+      <link>/post/tools/2022-05-27-vscode-for-markdown/</link>
+      <pubDate>Fri, 27 May 2022 19:05:43 +0800</pubDate>
+      
+      <guid>/post/tools/2022-05-27-vscode-for-markdown/</guid>
+      <description>可以通过安装如下插件，让vscode比较好的支持markdown文件的编辑。
+ markdown all in one   markdown preview enhanced   markdown preview github styling  </description>
+    </item>
+    
     <item>
       <title>《苔》 袁枚</title>
       <link>/post/poem/2022-05-22-%E8%8B%94-%E8%A2%81%E6%9E%9A/</link>
@@ -39,19 +49,6 @@
   I learned the hard way. Once bitten, twice shy.
   吃过苦头才明白，一朝被蛇咬，十年怕井绳。
  I have no word but &amp;lsquo;wow&amp;rsquo;.  </description>
-    </item>
-    
-    <item>
-      <title>2022-19th Good Sentences</title>
-      <link>/post/good-sentences/2022-19th-weeks/</link>
-      <pubDate>Sun, 15 May 2022 11:00:00 +0000</pubDate>
-      
-      <guid>/post/good-sentences/2022-19th-weeks/</guid>
-      <description>from 《The surgeon&amp;rsquo;s cut》@Netflix
-   I wanted to devote my life towards understanding how we can save the baby in situations where the baby would otherwise die.
-  He has been a pioneer.
-  From my perspective, that is a very simple gesture which engages them. We are undertaking the procedure together.
-  You know, I can&amp;rsquo;t wait to hold them and be a dad.</description>
     </item>
     
   </channel>
