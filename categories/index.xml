@@ -6,7 +6,16 @@
     <description>Recent content in Categories on tsthght&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 May 2022 19:05:43 +0800</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 May 2022 10:42:02 +0800</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>good-sentences</title>
+      <link>/categories/good-sentences/</link>
+      <pubDate>Sat, 28 May 2022 10:42:02 +0800</pubDate>
+      
+      <guid>/categories/good-sentences/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>vscode</title>
       <link>/categories/vscode/</link>
@@ -22,15 +31,6 @@
       <pubDate>Sun, 22 May 2022 14:05:32 +0800</pubDate>
       
       <guid>/categories/poem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>good-sentences</title>
-      <link>/categories/good-sentences/</link>
-      <pubDate>Sun, 22 May 2022 11:57:08 +0800</pubDate>
-      
-      <guid>/categories/good-sentences/</guid>
       <description></description>
     </item>
     
