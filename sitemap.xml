@@ -2,35 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2022-06-11T19:26:11+08:00</lastmod>
+    <loc>/post/good-sentences/2022-24th-weeks/</loc>
+    <lastmod>2022-06-18T10:39:30+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/categories/poem/</loc>
-    <lastmod>2022-06-11T19:26:11+08:00</lastmod>
+    <loc>/categories/</loc>
+    <lastmod>2022-06-18T10:39:30+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/good-sentences/</loc>
+    <lastmod>2022-06-18T10:39:30+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/learn-english/</loc>
+    <lastmod>2022-06-18T10:39:30+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2022-06-11T19:26:11+08:00</lastmod>
+    <lastmod>2022-06-18T10:39:30+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2022-06-11T19:26:11+08:00</lastmod>
+    <lastmod>2022-06-18T10:39:30+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2022-06-18T10:39:30+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/poem/</loc>
     <lastmod>2022-06-11T19:26:11+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -52,20 +73,6 @@
   
   <url>
     <loc>/post/good-sentences/2022-23th-weeks/</loc>
-    <lastmod>2022-06-11T06:39:35+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/good-sentences/</loc>
-    <lastmod>2022-06-11T06:39:35+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/learn-english/</loc>
     <lastmod>2022-06-11T06:39:35+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
