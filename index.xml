@@ -6,10 +6,21 @@
     <description>Recent content on tsthght</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Jun 2022 15:54:44 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jun 2022 19:46:51 +0800</lastBuildDate>
     
         <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>在goland中显示每一行的git历史</title>
+      <link>/post/tools/2022-06-25-goland-gittoolbox/</link>
+      <pubDate>Sat, 25 Jun 2022 19:46:51 +0800</pubDate>
+      
+      <guid>/post/tools/2022-06-25-goland-gittoolbox/</guid>
+      
+        <description></description>
+      
+    </item>
     
     <item>
       <title>《约客》 宋 赵师秀</title>

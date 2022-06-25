@@ -6,7 +6,25 @@
     <description>Recent content in tools on tsthght</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 May 2022 19:05:43 +0800</lastBuildDate><atom:link href="/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Jun 2022 19:46:51 +0800</lastBuildDate><atom:link href="/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>在goland中显示每一行的git历史</title>
+      <link>/post/tools/2022-06-25-goland-gittoolbox/</link>
+      <pubDate>Sat, 25 Jun 2022 19:46:51 +0800</pubDate>
+      
+      <guid>/post/tools/2022-06-25-goland-gittoolbox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HHKB Type-S 键盘无法链接Mac</title>
+      <link>/post/tools/2022-06-25-hhkb-can-not-connect-to-mac/</link>
+      <pubDate>Sat, 25 Jun 2022 15:11:46 +0800</pubDate>
+      
+      <guid>/post/tools/2022-06-25-hhkb-can-not-connect-to-mac/</guid>
+      <description>双模及双模静音版出现搜索不到的情况，建议按以下步骤操作： 按Fn+Q键进入配对模式。 再按Fn+Z+～键清空键盘配对信息，键盘自动关闭。 长按开关</description>
+    </item>
+    
     <item>
       <title>Vscode for Markdown</title>
       <link>/post/tools/2022-05-27-vscode-for-markdown/</link>
